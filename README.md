@@ -9,5 +9,5 @@ textarea
 var  
 wbr  
 
-Vojta - form, label, input, fieldset, legend
+Vojta - form, label, input, fieldset, legend  
 Radek - output textarea, var wbr
